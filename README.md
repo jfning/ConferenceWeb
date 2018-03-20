@@ -1,5 +1,5 @@
 # ConferenceWeb
-
+This is a course project. By putting the folder content in the local htdocs folder, should be able to run.
 # Requirements to build a multi-conference website from course project
 You are organizing a professional multi-conference called World Congress CS-IT Conferences in year 2017. The followings are the information about these multi-conferences. 
 December 5th, 2016: Submission of draft papers (2000-5000 words), extended abstracts (600-2000 words) and abstracts for inter-disciplinary communication (300-600 words). 
